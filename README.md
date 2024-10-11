@@ -68,4 +68,4 @@ This repository contains the infrastructure setup and deployment scripts for hos
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Arijvr/Host-a-Dynamic-Web-App-on-AWS.git
